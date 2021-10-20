@@ -2,7 +2,7 @@
 # define INCLUDES_H
 
 # include <signal.h>
-# include "42cursus01-Ft_printf/ft_printf.h"
+# include "../42cursus01-Ft_printf/ft_printf.h"
 
 char	ft_printerror(const char	*error);
 int		ft_pow(int base, int pow);
