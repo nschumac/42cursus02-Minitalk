@@ -11,7 +11,7 @@ The goal of this project is to simulate a small client to server connect. We do 
 ## Subject:
 <object data="https://github.com/nschumac/42cursus02-Minitalk/blob/main/subject/minitalk-en.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/nschumac/42cursus02-Minitalk/blob/main/subject/minitalk-en.pdf">
-        <p><a href="https://github.com/nschumac/42cursus02-Minitalk/blob/main/subject/minitalk-en.pdf">libft subject</a></p>
+        <p><a href="https://github.com/nschumac/42cursus02-Minitalk/blob/main/subject/minitalk-en.pdf">minitalk subject</a></p>
     </embed>
 </object>
 
